@@ -1,0 +1,6 @@
+C:\PracticeASP.NET\Demo\Demo\bin\Demo.dll.config
+C:\PracticeASP.NET\Demo\Demo\bin\Demo.dll
+C:\PracticeASP.NET\Demo\Demo\bin\Demo.pdb
+C:\PracticeASP.NET\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\PracticeASP.NET\Demo\Demo\obj\Debug\Demo.dll
+C:\PracticeASP.NET\Demo\Demo\obj\Debug\Demo.pdb
