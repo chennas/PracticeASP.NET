@@ -54,6 +54,7 @@
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                         <li><a runat="server" href="~/PopoverAnimations">PopoverAnimations</a></li>
+                        <li><a runat="server" href="~/Accordion">BootstrapAccordion</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
@@ -74,7 +75,7 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid body-content">
+        <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
