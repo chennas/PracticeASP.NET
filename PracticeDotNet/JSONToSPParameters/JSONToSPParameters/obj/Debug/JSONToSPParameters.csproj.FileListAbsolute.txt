@@ -1,0 +1,9 @@
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\bin\Debug\JSONToSPParameters.exe.config
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\bin\Debug\JSONToSPParameters.exe
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\bin\Debug\JSONToSPParameters.pdb
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\obj\Debug\JSONToSPParameters.frmJSONConversion.resources
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\obj\Debug\JSONToSPParameters.Properties.Resources.resources
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\obj\Debug\JSONToSPParameters.csproj.GenerateResource.Cache
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\obj\Debug\JSONToSPParameters.exe
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\obj\Debug\JSONToSPParameters.pdb
+C:\PracticeDotNet\JSONToSPParameters\JSONToSPParameters\obj\Debug\JSONToSPParameters.csprojResolveAssemblyReference.cache

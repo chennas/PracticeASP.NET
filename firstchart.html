@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Script reference -->
+<script src="http://cdn.zingchart.com/zingchart.min.js"> </script>
+<script>
+var chartData={
+	type:"bar", //specify your chart type here
+	title:{
+		text:"Title"
+	},
+	subtitle:{
+		text:"SubTitle"
+	},
+	series:[ //Insert your series data here
+		{ "values": [1,2,3,4]},
+		{ "values": [5,6,7,8]}
+	]
+};
+window.onload=function() { //Render method
+	zingchart.render(
+	{
+		id:'chartDiv',
+		data:chartData,
+		height:500,
+		width:600
+	});
+};
+</script>
+</head>
+<body>
+<!--Chart placement-->
+<div id='chartDiv'></div>
+</body>
+</html>
